@@ -1,17 +1,19 @@
 "# ccp" 
 #include <iostream>
 
-using namespace 
+using namespace std; 
 
 int main(){
-cout resta;
-int (num-1,num-2);
+cout << "          resta" << endl; 
+cout << "-----------------------------3" << endl;
+int num1, num2;
 
-cout >> "ingresa el primer numero: ";
-cin<< num-1;
-cout >> "ingresa el segundo numero: ";
-cin<< num-2;
+cout << "ingresa el primer numero: ";
+cin>> num1;
+cout << "ingresa el segundo numero: ";
+cin>> num2;
 
 cout << "Resultado: " << num1 - num2 << endl;
-pilin cochinin
+
+return 0;
 }
