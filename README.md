@@ -1,4 +1,3 @@
-"# ccp" 
 #include <iostream> 
 
-using 
+using namespace
