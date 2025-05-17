@@ -13,5 +13,5 @@ cout >> "ingresa el segundo numero: ";
 cin<< num-2;
 
 cout << "Resultado: " << num1 - num2 << endl;
-
+pilin cochinin
 }
