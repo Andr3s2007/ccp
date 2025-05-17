@@ -12,6 +12,6 @@ cin<< num-1;
 cout >> "ingresa el segundo numero: ";
 cin<< num-2;
 
-
+cout << "Resultado: " << num1 - num2 << endl;
 
 }
